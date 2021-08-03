@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+body{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+header{
+    text-align: center;
+    width: 100%;
+}
+
+h1{
+    font-size: 34px;
+    text-align: center;
+    padding: 90px 0 0 0;
+    width: 100%;
+}
+
+h2{
+    font-size: 34px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+header p{
+    font-size: 20px;
+    width: 100%;
+}
+
+main{
+    width: 100%;
+    margin:0 auto;
+}
+
+.conteudo{
+    text-align: center;
+    width: 100%;
+}
+
+.conteudo0 tr{
+    display: inline;
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: 100%;   
+}
+.conteudo0{
+    text-align: center;
+    width: 100%;
+}
+
+
+.conteudo1 tr{
+    display: inline-block;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: center;
+    width: 100%;
+}
+.conteudo1 h2{
+    text-align: center;
+}
+
+.game{
+    text-align: center;
+    width: 100%;
+}
+
+.drive{
+    padding: 90px 0 0 0;
+    width: 100%;
+}
+
+.prepare-se iframe{
+    width: 100%;
+}
+
+.Requisitos{
+    display: block;
+    text-align: center;
+    padding: 70px 0 0 0;
+    width: 100%;
+}
+
+.Requisitos table{
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    margin: 10px 20px 0 0;
+    border-collapse:collapse;
+}
+
+.Requisitos td{
+    padding: 10px;
+}
+
+hr{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.Requisitos tr {
+    border-bottom: 1px solid #dbdbdb;
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.serv{
+    width: 100%;
+}
+
+.embed{
+    max-width: 100%;
+    text-align: center;
+}
+
+.inicio{
+    padding: 60px 0 60px 0px;
+}
